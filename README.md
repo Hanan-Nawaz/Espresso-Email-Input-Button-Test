@@ -1,4 +1,4 @@
-# Espresso-Email-Input-Button-Test
+# Espresso Email Input Button Test
 
 The "Espresso-Email-Input-Button-Test" repository contains automated UI tests developed using Espresso, a popular testing framework for Android applications. The primary objective of this repository is to test the functionality and behavior of an Email Input field and a Button in an Android user interface.
 
